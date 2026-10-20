@@ -1,6 +1,6 @@
 # genesis
 
-![genesis](imgur.com image replace me!)
+<img src="https://github.com/nercesus/genesis/blob/main/images/3.jpg?raw=true" width="35%"/>
 
 A 65% RP2040 based keyboard. Currently outdated, kept because I still have PCBs that require this
 
